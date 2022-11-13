@@ -1,7 +1,7 @@
 ![readme-pic](/readme-picture.JPG)
-# 📚 My [Ru-Wiki](https://flipper.chillpad.club) for a Flipper Zero
+# 📚 [Wiki](https://flipper.chillpad.club) - my wiki for a Flipper Zero
 # 💿 [Virtual Token](https://github.com/etkr4k/virtual-token) - tools for create a virtual token
-# 📱 [Find Me](https://chillpad.club/) on the internet
+# 📱 [Find Me](https://chillpad.club/) - Telegram, Web-site, etc.
 
 <!---
 etkr4k/etkr4k is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
