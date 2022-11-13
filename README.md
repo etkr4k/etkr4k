@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @etkr4k
-- 🗂️ Write simple scripts and collect useful tools
+- 👋🏼 Hi, I’m @etkr4k
+- 🗂️ I write simple scripts and collect useful tools
 - 📚 Check My [Ru-Wiki](https://flipper.chillpad.club) for a Flipper Zero
 - 📱 [Find Me](https://chillpad.club/) on the internet
 
