@@ -1,5 +1,4 @@
 ![readme-pic](/readme-pic.jpg)
-![gif](/Etkr4k.GIF)
 - 📚 Check My [Ru-Wiki](https://flipper.chillpad.club) for a Flipper Zero
 - 📱 [Find Me](https://chillpad.club/) on the internet
 
