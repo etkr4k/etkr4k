@@ -1,5 +1,7 @@
 - 👋 Hi, I’m @etkr4k
+- 🗂️ Write simple scripts and collect useful tools
 - 📚 Check My [Ru-Wiki](https://flipper.chillpad.club) Flipper Zero
+
 
 <!---
 etkr4k/etkr4k is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
